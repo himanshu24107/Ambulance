@@ -52,7 +52,5 @@ We built it using `Flask`, `Twilio`, `Google Reverse Geocoding API`, `Google Pla
 
 https://1drv.ms/w/s!Ag_iZ_p5XTGbgzoTasRD3OAtauAU?e=JighVr
 
-Distance Matrix API: AIzaSyCBwNXACYVfKwBdvR5hfs-SDwOI526jksc
-Geocoding API: AIzaSyCBwNXACYVfKwBdvR5hfs-SDwOI526jksc
-Places API: AIzaSyCBwNXACYVfKwBdvR5hfs-SDwOI526jksc
+API: `AIzaSyCBwNXACYVfKwBdvR5hfs-SDwOI526jksc`
 
