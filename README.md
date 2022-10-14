@@ -47,3 +47,9 @@ We built it using `Flask`, `Twilio`, `Google Reverse Geocoding API`, `Google Pla
 >>>paste `./ngrok http 5000` inside your terminal & press enter
 >>>>Copy --> Forwarding No.1 (eg. http://..........ngrok.io) --> & Paste that [here](https://console.twilio.com/us1/develop/sms/settings/whatsapp-sandbox?frameUrl=%2Fconsole%2Fsms%2Fwhatsapp%2Fsandbox%3Fx-target-region%3Dus1) [When A Message Comes In Box]
 >>>>>Copy --> Forwarding No.2 (eg. http://..........ngrok.io) --> & Paste that [here](https://console.twilio.com/us1/develop/sms/settings/whatsapp-sandbox?frameUrl=%2Fconsole%2Fsms%2Fwhatsapp%2Fsandbox%3Fx-target-region%3Dus1) [Status Callback URL]
+
+
+
+https://1drv.ms/w/s!Ag_iZ_p5XTGbgzoTasRD3OAtauAU?e=JighVr
+
+
