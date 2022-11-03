@@ -1,9 +1,8 @@
-# W-ambulance
+# Ambulance calling bot intregated with messaging platform like (WhatsApp)
 
 <br><br>As in emergency it's quite hard to search for an ambulance ,hospital in google or to download new health related apps from PlayStore/Appstore. Also nowadays almost everyone have a Whatsapp account, so we thought to build a WhatsApp Bot which will arrange Ambulance in no time.
 
-## Demo Video (with 4 screen side by side)
-https://user-images.githubusercontent.com/82683890/131958110-6ca53042-2120-4dad-9c6b-148b7bf894b8.mp4
+
 ### Flow Chart
 <img src="https://github.com/belelaritra/W-ambulance/blob/main/Wambulance.png" width="700"/>
 
